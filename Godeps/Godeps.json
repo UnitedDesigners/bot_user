@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/uniteddesigners/botuser",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/nlopes/slack",
+			"Comment": "v0.1.0-3-gf243c76",
+			"Rev": "f243c7602fdf906248fc1f165284daa4e4d2d09e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/websocket",
+			"Rev": "ddf80d0970594e2e4cccf5a98861cad3d9eaa4cd"
+		}
+	]
+}
